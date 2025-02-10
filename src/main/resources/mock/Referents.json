@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "response": {
+    "referents": [
+      {
+        "_type": "referent",
+        "annotator_id": 3191803,
+        "annotator_login": "driptonite",
+        "api_path": "/referents/11828416",
+        "classification": "accepted",
+        "featured": false,
+        "fragment": "5848473",
+        "id": 11828417,
+        "is_description": false,
+        "path": "/11828417/docs.genius.com",
+        "range": {
+          "start": "/div[2]/div[2]/div[22]/blockquote[1]/div[1]/genius-json-explorer[1]/pre[1]/json-explorer[1]/div[1]/ul[1]/li[2]/ul[1]/li[1]/ul[1]/li[1]/ul[1]/li[4]/ul[1]/li[11]/ul[1]/li[4]/span[2]",
+          "startOffset": "0",
+          "end": "/div[2]/div[2]/div[22]/blockquote[1]/div[1]/genius-json-explorer[1]/pre[1]/json-explorer[1]/div[1]/ul[1]/li[2]/ul[1]/li[1]/ul[1]/li[1]/ul[1]/li[4]/ul[1]/li[11]/ul[1]/li[4]/span[2]",
+          "endOffset": "7",
+          "before": "\",pyongs_count: 560,song_art_image_thumbnail_url: \"https://images.genius.com/f3be0158d3a067a81b075686a3a2e63d.300x300x1.png\",-stats: {...hot: false,unreviewed_annotations: 0,concurrents: 4,pageviews: ",
+          "after": "},title: \"Hotline Bling\",url: \"https://genius.com/Drake-hotline-bling-lyrics\",+primary_artist: {...api_path: \"/artists/130\",header_image_url: \"https://images.genius.com/06e4a0a6f5b4fda697a28bb450ab9c1",
+          "content": "5848473"
+        },
+        "song_id": null,
+        "url": "https://genius.com/11828417/docs.genius.com",
+        "verified_annotator_ids": [],
+        "annotatable": {
+          "api_path": "/web_pages/10347",
+          "context": "docs.genius.com",
+          "id": 10347,
+          "image_url": "https://assets.genius.com/images/default_cover_image.png?1738861844",
+          "link_title": "Genius API",
+          "title": "Genius API",
+          "type": "WebPage",
+          "url": "https://genius.com/docs.genius.com"
+        },
+        "annotations": [
+          {
+            "api_path": "/annotations/11828417",
+            "body": {
+              "dom": {
+                "tag": "root",
+                "children": [
+                  {
+                    "tag": "p",
+                    "children": [
+                      "damn!"
+                    ]
+                  }
+                ]
+              }
+            },
+            "comment_count": 0,
+            "community": false,
+            "custom_preview": null,
+            "has_voters": true,
+            "id": 11828417,
+            "pinned": false,
+            "share_url": "https://genius.com/11828417",
+            "source": null,
+            "state": "verified",
+            "url": "https://genius.com/11828417/docs.genius.com",
+            "verified": true,
+            "votes_total": 1,
+            "current_user_metadata": {
+              "permissions": [
+                "vote",
+                "report_as_abusive",
+                "create_comment"
+              ],
+              "excluded_permissions": [
+                "edit",
+                "cosign",
+                "uncosign",
+                "destroy",
+                "accept",
+                "reject",
+                "see_unreviewed",
+                "clear_votes",
+                "propose_edit_to",
+                "pin_to_profile",
+                "unpin_from_profile",
+                "update_source",
+                "edit_custom_preview"
+              ],
+              "interactions": {
+                "cosign": false,
+                "pyong": false,
+                "vote": null
+              },
+              "iq_by_action": {
+                "accept": {
+                  "primary": {
+                    "multiplier": 1,
+                    "base": 10,
+                    "applicable": true
+                  }
+                },
+                "reject": {
+                  "primary": {
+                    "multiplier": 1,
+                    "base": 2,
+                    "applicable": true
+                  }
+                },
+                "delete": {
+                  "primary": {
+                    "multiplier": 1,
+                    "base": 5,
+                    "applicable": true
+                  }
+                }
+              }
+            },
+            "authors": [
+              {
+                "attribution": 1,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/3191803",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/150689fbe82f0fb72666796e575950b9",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/150689fbe82f0fb72666796e575950b9",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/150689fbe82f0fb72666796e575950b9",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/150689fbe82f0fb72666796e575950b9",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://filepicker-images.genius.com/2j7am7jhogz",
+                  "human_readable_role_for_display": null,
+                  "id": 3191803,
+                  "iq": 107,
+                  "login": "driptonite",
+                  "name": "driptonite",
+                  "role_for_display": null,
+                  "url": "https://genius.com/driptonite",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              }
+            ],
+            "cosigned_by": [],
+            "rejection_comment": null,
+            "verified_by": {
+              "api_path": "/users/3191803",
+              "avatar": {
+                "tiny": {
+                  "url": "https://images.genius.com/avatars/tiny/150689fbe82f0fb72666796e575950b9",
+                  "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                  }
+                },
+                "thumb": {
+                  "url": "https://images.genius.com/avatars/thumb/150689fbe82f0fb72666796e575950b9",
+                  "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                  }
+                },
+                "small": {
+                  "url": "https://images.genius.com/avatars/small/150689fbe82f0fb72666796e575950b9",
+                  "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                  }
+                },
+                "medium": {
+                  "url": "https://images.genius.com/avatars/medium/150689fbe82f0fb72666796e575950b9",
+                  "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                  }
+                }
+              },
+              "header_image_url": "https://filepicker-images.genius.com/2j7am7jhogz",
+              "human_readable_role_for_display": null,
+              "id": 3191803,
+              "iq": 107,
+              "login": "driptonite",
+              "name": "driptonite",
+              "role_for_display": null,
+              "url": "https://genius.com/driptonite",
+              "current_user_metadata": {
+                "permissions": [
+                  "follow"
+                ],
+                "excluded_permissions": [],
+                "interactions": {
+                  "following": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
