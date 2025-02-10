@@ -6,8 +6,6 @@ import com.genius.api.cli.GeniusInterface
 import com.genius.api.core.Credentials
 import com.genius.api.data.io.*
 import com.genius.api.test.ResourceBodyFactory
-import com.genius.com.genius.api.data.io.ArtistSongs
-import com.google.gson.Gson
 import org.junit.jupiter.api.Test
 import retrofit2.Response
 import kotlin.test.assertNotNull

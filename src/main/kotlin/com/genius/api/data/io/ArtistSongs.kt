@@ -1,4 +1,4 @@
-package com.genius.com.genius.api.data.io
+package com.genius.api.data.io
 
 import com.genius.api.data.Song
 import com.genius.api.data.io.ResponseMessage

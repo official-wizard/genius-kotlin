@@ -5,7 +5,7 @@ import co.infinum.retromock.meta.MockResponse
 import com.genius.api.data.io.*
 import com.genius.api.data.io.Account
 import com.genius.api.data.io.Page
-import com.genius.com.genius.api.data.io.ArtistSongs
+import com.genius.api.data.io.ArtistSongs
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Path
